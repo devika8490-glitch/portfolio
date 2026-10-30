@@ -1,0 +1,37 @@
+DEVIKA GAIKWAD
+Full Stack Developer | Software Engineer
+Karad, Maharashtra, India
+Email: devika8490@gmail.com
+Phone: +91 84839 92627
+GitHub: https://github.com/devika8490-glitch
+Naukri: https://www.naukri.com/mnjuser/profile?id=&altresid
+
+PROFILE
+BCA final-year student and Full Stack Developer Intern with two years of
+learning and practical experience. Interested in building modern, responsive
+and user-friendly web applications.
+
+TECHNICAL SKILLS
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: Python, Django
+Database: MySQL
+Other: REST APIs, CRUD, responsive design, Git, GitHub, VS Code
+
+EXPERIENCE
+Full Stack Developer Intern
+HOC Tech Solutions Pvt. Ltd. | May 2026 – Present
+- Developing frontend interfaces.
+- Working on backend functionality.
+- Working with databases and APIs.
+- Debugging and testing applications.
+- Learning real-world software development practices.
+
+PROJECT
+RealtyNest — Django Full Stack Real Estate Website
+- Completed a full-stack real estate website using Django and web technologies.
+- Applied frontend, backend and database development skills.
+Technologies: Python, Django, HTML, CSS, JavaScript, MySQL
+
+EDUCATION
+Bachelor of Computer Applications (BCA), Final Year
+Sadguru Gadage Maharaj College, Karad
