@@ -426,6 +426,7 @@ export default function Home() {
             <a href="mailto:devika8490@gmail.com">devika8490@gmail.com</a>
             <a href="tel:+918483992627">+91 84839 92627</a>
             <a href="https://github.com/devika8490-glitch" target="_blank" rel="noopener noreferrer">GitHub <ArrowIcon /></a>
+            <a href="https://github.com/devika8490-glitch/portfolio" target="_blank" rel="noopener noreferrer">Portfolio source <ArrowIcon /></a>
             <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" rel="noopener noreferrer">Naukri profile <ArrowIcon /></a>
           </div>
           <div className="contact-location"><span aria-hidden="true">⌖</span> Karad, Maharashtra, India</div>
